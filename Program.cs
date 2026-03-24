@@ -10,6 +10,6 @@ Console.WriteLine("Tu eres KaRLO!!!");
 
 internal class NewClass
 {
-
+    void metodaa() { }
 }
 //dodao sam jos jedan writeLine
